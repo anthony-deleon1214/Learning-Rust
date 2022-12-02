@@ -1,6 +1,6 @@
 fn main() {
     let x = 5; // Defining x with main scope
-
+    // Repeating the let keyword allows shadowing (A new variable x is created for this scope)
     let x = x + 1; // Shadowing x in main scope (x now equals 6)
 
     {
