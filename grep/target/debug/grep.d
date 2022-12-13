@@ -1,0 +1,1 @@
+C:\Users\Anthony\Documents\Coding\ Projects\Learning-Rust\grep\target\debug\grep.exe: C:\Users\Anthony\Documents\Coding\ Projects\Learning-Rust\grep\src\lib.rs C:\Users\Anthony\Documents\Coding\ Projects\Learning-Rust\grep\src\main.rs
